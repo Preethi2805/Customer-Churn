@@ -64,7 +64,7 @@ The dataset used in this project is the **Telco Customer Churn Dataset** from Ka
 - **Geographical Visualization**: Scatter plots were used to visualize the relationship between `MonthlyCharges` and `Churn`.
 - **Correlation Analysis**: A correlation matrix was used to identify the relationship between numerical features.
 
-![Correlation matrix for numerical features](Correlation.png)
+![Correlation matrix for numerical features](correlation.png)
 
 - **Count Plots**: Count plots were used to visualize the distribution of categorical features.
 
