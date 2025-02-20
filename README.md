@@ -107,24 +107,7 @@ The **Random Forest** model performed the best and was selected for further eval
 - **Scikit-learn**: Machine learning models and evaluation.
 - **SMOTE**: Handling class imbalance.
 - **Pickle**: Saving and loading models and encoders.
-
----
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/customer-churn-prediction.git
-   ```
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter Notebook or Python script:
-   ```bash
-   jupyter notebook Customer_Churn_Prediction.ipynb
-   ```
-4. Follow the steps in the notebook to preprocess the data, train the models, and evaluate the results.
-
+- 
 ---
 
 ## Future Work
