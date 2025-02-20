@@ -1,18 +1,5 @@
 # Customer Churn Prediction
 
-This project focuses on predicting customer churn for a telecommunications company using machine learning models. The dataset contains various features such as customer demographics, service usage, and billing information, which are used to predict whether a customer will churn (leave the service).
-
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Dataset](#dataset)
-- [Data Preprocessing](#data-preprocessing)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-- [Model Training](#model-training)
-- [Results](#results)
-- [Technologies Used](#technologies-used)
-- [How to Run](#how-to-run)
-
----
 
 ## Project Overview
 The goal of this project is to predict customer churn using various machine learning models. The project involves:
