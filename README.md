@@ -58,8 +58,14 @@ The dataset used in this project is the **Telco Customer Churn Dataset** from Ka
 
 ## Exploratory Data Analysis (EDA)
 - **Distribution of Features**: Histograms and box plots were used to understand the distribution of numerical features like `tenure`, `MonthlyCharges`, and `TotalCharges`.
+- 
+![Histogram](hist.png)
+
 - **Geographical Visualization**: Scatter plots were used to visualize the relationship between `MonthlyCharges` and `Churn`.
 - **Correlation Analysis**: A correlation matrix was used to identify the relationship between numerical features.
+
+![Correlation matrix for numerical features](Correlation.png)
+
 - **Count Plots**: Count plots were used to visualize the distribution of categorical features.
 
 ---
@@ -91,7 +97,6 @@ The **Random Forest** model performed the best and was selected for further eval
     - Precision (Class 1): 0.58
     - Recall (Class 1): 0.59
     - F1-Score (Class 1): 0.58
-
 ---
 
 ## Technologies Used
