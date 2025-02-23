@@ -45,7 +45,7 @@ The dataset used in this project is the **Telco Customer Churn Dataset** from Ka
 
 ## Exploratory Data Analysis (EDA)
 - **Distribution of Features**: Histograms and box plots were used to understand the distribution of numerical features like `tenure`, `MonthlyCharges`, and `TotalCharges`.
-- 
+  
 ![Histogram](hist.png)
 
 - **Geographical Visualization**: Scatter plots were used to visualize the relationship between `MonthlyCharges` and `Churn`.
