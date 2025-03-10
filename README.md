@@ -2,7 +2,7 @@
 
 
 ## Project Overview
-The goal of this project is to predict customer churn using various machine learning models. The project involves:
+Customer churn, also known as customer attrition, refers to the phenomenon where customers stop doing business with a company. The goal of this project is to predict customer churn using various machine learning models for a telecom company. The project involves:
 - Data cleaning and preprocessing.
 - Exploratory Data Analysis (EDA) to understand the dataset.
 - Handling class imbalance using **SMOTE** (Synthetic Minority Oversampling Technique).
